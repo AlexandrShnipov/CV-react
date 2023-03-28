@@ -1,0 +1,77 @@
+:root {
+    font-size: calc(0.4em + 0.8vw);
+}
+
+@media (max-width: 576px) {
+    :root {
+        font-size: calc(0.55em + 0.8vw);
+    }
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+li {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    display: block;
+    transition: all .5s linear;
+}
+
+button{
+    cursor: pointer;
+    transition: all .5s linear;
+}
+
+h2 {
+    font-weight: 900;
+    font-size: 2rem;
+    color: darkslateblue;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: darkred;
+}
+
+h4 {
+    font-weight: 700;
+    font-style: italic;
+    font-size: 1.25rem;
+    color: darkmagenta;
+}
+
+span {
+    display: inline-block;
+}
+
+/*print*/
+
+@media print {
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    h3 {
+        font-size: 1.1rem;
+    }
+
+    h4 {
+        font-size: 1.1rem;
+    }
+}

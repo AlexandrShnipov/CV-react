@@ -1,0 +1,50 @@
+.education h2{
+    margin-bottom: .5rem;
+}
+
+.educationListItemSkills li{
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.educationItem {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.educationItem:not(:last-child) {
+    padding-bottom: .5rem;
+    border-bottom: 1px solid black;
+}
+
+.educationListItemTitle>p{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.educationListItemLink{
+    color: deeppink;
+}
+
+.educationListItemLink:hover{
+    color: blue;
+}
+
+/*print*/
+
+@media print {
+    .education h2{
+        margin-bottom: .2rem;
+    }
+
+    .educationListItemSkills li{
+        font-size: 1rem;
+        line-height: 1.1;
+    }
+
+    .educationListItemLink{
+        display: none;
+    }
+}
+
