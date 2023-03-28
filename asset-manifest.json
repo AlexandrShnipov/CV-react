@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.5c84402e.css",
-    "main.js": "/CV/static/js/main.fc4950ce.js",
-    "static/js/787.5344719b.chunk.js": "/CV/static/js/787.5344719b.chunk.js",
-    "static/media/myPhoto.jpg": "/CV/static/media/myPhoto.1fd52b7a1c7e1b0425d7.jpg",
-    "static/media/finger.png": "/CV/static/media/finger.c622bf9c24ac382d96a0.png",
-    "static/media/telegram.png": "/CV/static/media/telegram.e9722f26cc228e817986.png",
-    "static/media/location.png": "/CV/static/media/location.7771fd41700ffac59e21.png",
-    "static/media/mail.png": "/CV/static/media/mail.7f0432c3a7d36f687c69.png",
-    "static/media/github.png": "/CV/static/media/github.a855c3975c028d8069f5.png",
-    "static/media/tel.png": "/CV/static/media/tel.fb244201058d6b0c101c.png",
-    "static/media/linkedin.png": "/CV/static/media/linkedin.6892b3ae328c7a1e055f.png",
-    "index.html": "/CV/index.html",
-    "main.5c84402e.css.map": "/CV/static/css/main.5c84402e.css.map",
-    "main.fc4950ce.js.map": "/CV/static/js/main.fc4950ce.js.map",
-    "787.5344719b.chunk.js.map": "/CV/static/js/787.5344719b.chunk.js.map"
+    "main.css": "/CV-react/static/css/main.5c84402e.css",
+    "main.js": "/CV-react/static/js/main.e3b99118.js",
+    "static/js/787.5344719b.chunk.js": "/CV-react/static/js/787.5344719b.chunk.js",
+    "static/media/myPhoto.jpg": "/CV-react/static/media/myPhoto.1fd52b7a1c7e1b0425d7.jpg",
+    "static/media/finger.png": "/CV-react/static/media/finger.c622bf9c24ac382d96a0.png",
+    "static/media/telegram.png": "/CV-react/static/media/telegram.e9722f26cc228e817986.png",
+    "static/media/location.png": "/CV-react/static/media/location.7771fd41700ffac59e21.png",
+    "static/media/mail.png": "/CV-react/static/media/mail.7f0432c3a7d36f687c69.png",
+    "static/media/github.png": "/CV-react/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/tel.png": "/CV-react/static/media/tel.fb244201058d6b0c101c.png",
+    "static/media/linkedin.png": "/CV-react/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/CV-react/index.html",
+    "main.5c84402e.css.map": "/CV-react/static/css/main.5c84402e.css.map",
+    "main.e3b99118.js.map": "/CV-react/static/js/main.e3b99118.js.map",
+    "787.5344719b.chunk.js.map": "/CV-react/static/js/787.5344719b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c84402e.css",
-    "static/js/main.fc4950ce.js"
+    "static/js/main.e3b99118.js"
   ]
 }
